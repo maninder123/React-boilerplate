@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Boilerplate
 
 A basic React Project setup using webpack.
@@ -40,19 +39,8 @@ To run the webpack dev server, enter
 npm run dev
 ```
 
-This will get your app running on http://localhost:8080/webpack-dev-server/index.html.
+This will get your app running on http://localhost:7777/webpack-dev-server/index.html.
 
 Webpack will watch for changes and update the browser when a file is changed.
 
 Use src/js/client.js to import your modules into. This compiles to src/client.min.js, and is loaded into index.html.
-
-
-## Support
-
-Please [open an issue](https://github.com/eddyerburgh/react-boilerplate/issues/new) for support.
-
-## Contributing
-
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/eddyerburgh/react-boilerplate/compare/).
-=======
-# React-boilerplate
