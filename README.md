@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Boilerplate
 
 A basic React Project setup using webpack.
@@ -53,3 +54,5 @@ Please [open an issue](https://github.com/eddyerburgh/react-boilerplate/issues/n
 ## Contributing
 
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/eddyerburgh/react-boilerplate/compare/).
+=======
+# React-boilerplate
